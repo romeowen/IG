@@ -1,0 +1,25 @@
+@attribute	t_romeo_10038_text_feature
+@attribute  partition_time I
+@attribute	target	L
+@attribute	wuid	I
+@attribute  publisher_appid I
+@attribute	ad_id	N	100
+@attribute	user_age	C
+@attribute	user_gender	C
+@attribute	qq_recent_province	C
+@attribute	qq_age	C
+@attribute	adpos_click	ND	9
+@attribute	user_interests_v3	C
+@attribute	wx_interest	C
+@attribute	device_os	C
+@attribute	wx_app_id	I
+@attribute	ad_category_id	C
+@attribute	wx_interest_v2	C
+@attribute	advertiser_id	N
+@attribute	qq_friends	ND	9
+@attribute	qq_group	ND	9
+@attribute	wuid_user_age	C
+@attribute	wuid_user_gender	C
+@attribute  app_msg_id I
+@attribute  msg_idx I
+@attribute  relevance TD  0.3,0.6,1
